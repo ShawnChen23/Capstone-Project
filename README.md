@@ -12,7 +12,7 @@ In this project, I will be using the Cyclistic’s historical trip dataset to an
 I will proceed with the first step, as it is very important to ask questions before you even touch the data. Defining a problem and focusing on it throughout the whole data analysis process is very important, as one might easily stray away.
 Let’s move on to the first step:
 
-####Case Study Roadmap 1: _ASK_
+#### Case Study Roadmap 1: _ASK_
 
 Key business task: Understanding how casual riders and annual members use Cyclistic bikes differently. From these insights, design a new marketing strategy to convert casual members into annual members.
 
@@ -27,7 +27,7 @@ Relate the objectives to our questions and you may have questions below:
  * There needs to be a hypothesis that suggest what, where, how, when a campaign must be launched to target the casual riders, relating back to the questions.
 
 
-####Case Study Roadmap 2: _PREPARE_
+#### Case Study Roadmap 2: _PREPARE_
 
 Cyclistic is a fictional company however datasets are still appropriate and has been made available by Motivate International Inc. under the license found in this website https://ride.divvybikes.com/data-license-agreement. In this website, the public data can be used to explore how different customer types are using Cyclistic bikes.
 The data can be found from website https://divvy-tripdata.s3.amazonaws.com/index.html. Previous 12 months of Cyclistic trip data are chosen due remain relevancy to the current trends. There are total of 12 sets of data/excel files with each file representing 1 month of data collected.
@@ -40,7 +40,7 @@ Upon looking at one example of the datasets in excel sheet, the data are organiz
 
 Now, it is important that the data has to be ROCCC: Reliable, Original, Comprehensive, Current and Cited. The data is original and reliable since it is already licensed as mentioned above. The data is also comprehensive as it has unique ride_ID representing each ride data that is captured. Finally, it is current data that is recorded periodically from Apr 2022 – Mar 2023.
 
-####Case Study Roadmap 3: _PROCESS_
+#### Case Study Roadmap 3: _PROCESS_
 Since the data in one single file contains 300k+ rows with each row representing the details of one single ride recorded, the data size is very big and is strongly recommended to be processed with SQL. 
 Hence in this case, I will be using MySQL. For visualization part, I will use Tableau.
 This phase would be focusing and documenting how I clean my data with SQL.
@@ -343,7 +343,7 @@ Rerun **UNION ALL** again to create a new table with **5,803,720** rows of data.
 
 ![Picture](Picture8.png)
 
-####Case Study Roadmap 4: _ANALYZE_
+#### Case Study Roadmap 4: _ANALYZE_
 
 
 Now, start to dig into data by using 'DATEDIFF' which calculates the duration per every bike trip in seconds. Upload this data into the temp table
@@ -454,14 +454,14 @@ ORDER BY mostusedendstation DESC
 
 ![Picture](Picture15.png)
 
-####Case Study Roadmap 5: _SHARE_
+#### Case Study Roadmap 5: _SHARE_
 
 Now, we are ready to share our analysis using Tableau visualization tool to give a clearer image to the stakeholders.
 In this project, we will determine insights of number of users in a week spreading out whole year, and which location to target the campaign.
 
 ![Picture](Picture16.png)
 
-####Case Study Roadmap 6: _ACT_
+#### Case Study Roadmap 6: _ACT_
 
 The trend here is presented and new marketing strategy is created. Some of the suggestions include:
 
