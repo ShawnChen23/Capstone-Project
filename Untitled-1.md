@@ -453,3 +453,23 @@ ORDER BY mostusedendstation DESC
 
 
 ![Picture](Picture15.png)
+
+####Case Study Roadmap 5: _SHARE_
+
+Now, we are ready to share our analysis using Tableau visualization tool to give a clearer image to the stakeholders.
+In this project, we will determine insights of number of users in a week spreading out whole year, and which location to target the campaign.
+
+![Picture](Picture16.png)
+
+####Case Study Roadmap 6: _ACT_
+
+The trend here is presented and new marketing strategy is created. Some of the suggestions include:
+
+1.) As these bikes are parked at the **top 10 stations** in Illnois, **posters, billboards** should be placed at these locations so that these casual riders will know there is ongoing promotion for signing up the membership.
+
+2.) Weighing the cost of promotion, assuming that there is a certain budget constraint, Cyclistic should utilize these budget instead to **hire more promoters** in these stations, particularly on **Saturday & Sunday** due to large number of casual riders tend to ride in weekend.
+
+3.) Average duration per ride is **19 minutes** which is considered as a tiring trip, where users would look for something to quench their thirst after the ride.  
+Hence Cyclistic should utilize this data, perhaps by **collaborating with energy drink company** and provide **free beverages or exclusive membership discount of beverages** if membership is sign up on the spot, targeting at top 10 stations.
+
+###And that concludes the end of project (More to come!)
