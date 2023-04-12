@@ -472,4 +472,4 @@ The trend here is presented and new marketing strategy is created. Some of the s
 3.) Average duration per ride is **19 minutes** which is considered as a tiring trip, where users would look for something to quench their thirst after the ride.  
 Hence Cyclistic should utilize this data, perhaps by **collaborating with energy drink company** and provide **free beverages or exclusive membership discount of beverages** if membership is sign up on the spot, targeting at top 10 stations.
 
-###And that concludes the end of project (More to come!)
+### And that concludes the end of project (More to come!)
