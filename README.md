@@ -1,4 +1,4 @@
-##Analyzing _Cyclistic_ 12 month user data with MySQL with Tableau dashboard visualization
+## Analyzing _Cyclistic_ 12 month user data with MySQL with Tableau dashboard visualization
 
 In this project, I will be using the Cyclistic’s historical trip dataset to analyze and identify trends. I will also be using what I have learned in Google Data Analytics course by applying the data analysis process or case study roadmap I called **‘APPASA’** whereby the acronym stands for:
 
